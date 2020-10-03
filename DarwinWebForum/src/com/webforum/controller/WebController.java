@@ -20,7 +20,7 @@ import com.webforum.service.MemberService;
 
 @Controller
 public class WebController {
-	
+	//test
 	@Autowired
 	private MemberService service;
 	
